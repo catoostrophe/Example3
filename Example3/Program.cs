@@ -6,10 +6,8 @@
         {
             int a = 1;
             int b = 2;
-            int c = 3;
-            int d = 4;
-            int e = a + b + c;
-            System.Console.WriteLine(e);
+            int c = a + b;
+            System.Console.WriteLine(c);
         }
     }
 }
