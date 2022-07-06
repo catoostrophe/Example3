@@ -8,7 +8,7 @@
             int b = 2;
             int c = 3;
             int d = 4;
-            int e = a + b;
+            int e = a + b + c;
             System.Console.WriteLine(e);
         }
     }
